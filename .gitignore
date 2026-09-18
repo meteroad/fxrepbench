@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+
+# Reconstructed or downloaded audio
+data/
+rendered/
+downloads/
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.m4a
+
+# Models, experiment outputs, and local configuration
+checkpoints/
+outputs/
+runs/
+logs/
+*.pt
+*.pth
+*.ckpt
+.env
+.env.*
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+

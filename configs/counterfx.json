@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "audio_seed": 20270720,
+  "effect_seed": 20270722,
+  "candidate_seed": 20270724,
+  "sample_rate": 44100,
+  "channels": 2,
+  "segment_seconds": 10.0,
+  "preferred_start_seconds": 5.0,
+  "target_lufs": -20.0,
+  "minimum_source_target_ld": 0.8,
+  "clipping_peak": 1.0,
+  "head_proposal": {
+    "scale_min": 0.08,
+    "scale_max": 2.5,
+    "topology_floor": 0.10,
+    "topology_head_weight": 0.62,
+    "topology_prior_weight": 0.28
+  },
+  "renderer": {
+    "backend": "Spotify Pedalboard",
+    "version": "0.9.23",
+    "buffer_size": 8192,
+    "reset": true,
+    "peak_limiter": false,
+    "rms_matching": false
+  },
+  "topologies": {
+    "known": "Effect identities and order are supplied; continuous controls are hidden.",
+    "hidden": "Chain length, effect identities, order, and continuous controls are hidden."
+  }
+}

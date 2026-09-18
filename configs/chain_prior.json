@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "minimum_effects": 1,
+  "maximum_effects": 4,
+  "activation_probabilities": {
+    "highpass_filter": 0.35,
+    "lowpass_filter": 0.25,
+    "peak_filter": 0.60,
+    "compressor": 0.55,
+    "distortion": 0.15,
+    "chorus": 0.30,
+    "delay": 0.15,
+    "reverb": 0.35
+  },
+  "order_templates": [
+    ["highpass_filter", "lowpass_filter", "peak_filter", "compressor", "distortion", "chorus", "delay", "reverb"],
+    ["distortion", "highpass_filter", "lowpass_filter", "peak_filter", "compressor", "chorus", "delay", "reverb"],
+    ["compressor", "distortion", "highpass_filter", "lowpass_filter", "peak_filter", "chorus", "delay", "reverb"],
+    ["highpass_filter", "lowpass_filter", "peak_filter", "distortion", "compressor", "chorus", "delay", "reverb"]
+  ],
+  "sampling_rule": "Independent Bernoulli draws; repair empty masks by a probability-weighted draw; if more than four effects are active, retain four by weighted sampling without replacement; choose one order template uniformly."
+}

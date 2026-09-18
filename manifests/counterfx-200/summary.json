@@ -1,0 +1,80 @@
+{
+  "audio_manifest": "manifests/fma_test_core_200.csv",
+  "audio_seed": 20270720,
+  "benchmark_version": "pedalboard-fma-test-v0.1",
+  "chain_lengths": {
+    "1": 30,
+    "2": 57,
+    "3": 68,
+    "4": 45
+  },
+  "effect_activation_probabilities": {
+    "chorus": 0.3,
+    "compressor": 0.55,
+    "delay": 0.15,
+    "distortion": 0.15,
+    "highpass_filter": 0.35,
+    "lowpass_filter": 0.25,
+    "peak_filter": 0.6,
+    "reverb": 0.35
+  },
+  "effect_delta_ratio_db_min": {
+    "maximum": 12.799974053444089,
+    "median": -2.042345930183666,
+    "minimum": -17.1438341028659,
+    "p10": -6.27298369531754,
+    "p90": 1.3549484958618339
+  },
+  "effect_occurrences": {
+    "chorus": 55,
+    "compressor": 120,
+    "delay": 25,
+    "distortion": 21,
+    "highpass_filter": 67,
+    "lowpass_filter": 50,
+    "peak_filter": 113,
+    "reverb": 77
+  },
+  "effect_seed": 20270722,
+  "fma_split": "test",
+  "genres": {
+    "Electronic": 26,
+    "Experimental": 26,
+    "Folk": 26,
+    "Hip-Hop": 26,
+    "Instrumental": 19,
+    "International": 26,
+    "Pop": 25,
+    "Rock": 26
+  },
+  "items": 200,
+  "minimum_source_target_ld": 0.8,
+  "protocol": "test200",
+  "rejected_audio_candidates": 1,
+  "rejected_target_draws_by_reason": {
+    "clipping": 32,
+    "low_source_target_ld": 356
+  },
+  "rejected_target_parameter_draws": 388,
+  "renderer_lock": "locks/pedalboard_renderer_lock.json",
+  "requested_genre_quotas": {
+    "Electronic": 26,
+    "Experimental": 26,
+    "Folk": 26,
+    "Hip-Hop": 26,
+    "Instrumental": 19,
+    "International": 26,
+    "Pop": 25,
+    "Rock": 26
+  },
+  "source_target_ld_min": {
+    "maximum": 12.356633186340332,
+    "median": 1.5580264329910278,
+    "minimum": 0.8007795214653015,
+    "p10": 0.9645814180374146,
+    "p90": 4.58391923904419
+  },
+  "status": "held-out test set frozen with source-target Ld >= 0.8",
+  "target_audio_retained": false,
+  "target_manifest": "manifests/pedalboard_known_test_seed20270722.jsonl"
+}

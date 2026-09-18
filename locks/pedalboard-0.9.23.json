@@ -1,0 +1,10 @@
+{
+  "backend": "Spotify Pedalboard",
+  "buffer_size": 8192,
+  "package_version": "0.9.23",
+  "peak_limiter": false,
+  "processor_reset": true,
+  "rms_matching": false,
+  "sample_rate": 44100
+}
+

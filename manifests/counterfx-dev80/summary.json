@@ -1,0 +1,67 @@
+{
+  "audio_manifest": "manifests/fma_dev_80.csv",
+  "audio_seed": 20270720,
+  "benchmark_version": "pedalboard-fma-dev-v0.3",
+  "chain_lengths": {
+    "1": 12,
+    "2": 29,
+    "3": 27,
+    "4": 12
+  },
+  "effect_activation_probabilities": {
+    "chorus": 0.3,
+    "compressor": 0.55,
+    "delay": 0.15,
+    "distortion": 0.15,
+    "highpass_filter": 0.35,
+    "lowpass_filter": 0.25,
+    "peak_filter": 0.6,
+    "reverb": 0.35
+  },
+  "effect_delta_ratio_db_min": {
+    "maximum": 7.534600798287066,
+    "median": -2.514218835405497,
+    "minimum": -20.43939319446036,
+    "p10": -6.217512804019346,
+    "p90": 0.5693906897588195
+  },
+  "effect_occurrences": {
+    "chorus": 27,
+    "compressor": 42,
+    "delay": 8,
+    "distortion": 7,
+    "highpass_filter": 28,
+    "lowpass_filter": 16,
+    "peak_filter": 48,
+    "reverb": 23
+  },
+  "effect_seed": 20270722,
+  "genres": {
+    "Electronic": 10,
+    "Experimental": 10,
+    "Folk": 10,
+    "Hip-Hop": 10,
+    "Instrumental": 10,
+    "International": 10,
+    "Pop": 10,
+    "Rock": 10
+  },
+  "items": 80,
+  "minimum_source_target_ld": 0.8,
+  "rejected_audio_candidates": 2,
+  "rejected_target_draws_by_reason": {
+    "clipping": 22,
+    "low_source_target_ld": 167
+  },
+  "rejected_target_parameter_draws": 189,
+  "source_target_ld_min": {
+    "maximum": 10.583216667175293,
+    "median": 1.5885255932807922,
+    "minimum": 0.8045174479484558,
+    "p10": 0.9018425405025482,
+    "p90": 4.5026963710785
+  },
+  "status": "development set frozen with source-target Ld >= 0.8",
+  "target_audio_retained": false,
+  "target_manifest": "manifests/pedalboard_known_dev_seed20270722.jsonl"
+}

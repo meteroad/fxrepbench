@@ -1,0 +1,15 @@
+{
+  "name": "Ld",
+  "implementation": "three-resolution magnitude STFT distance",
+  "fft_sizes": [1024, 2048, 512],
+  "hop_sizes": [120, 240, 50],
+  "win_lengths": [600, 1200, 240],
+  "window": "hann",
+  "spectral_convergence_weight": 1.0,
+  "log_magnitude_weight": 1.0,
+  "linear_magnitude_weight": 0.0,
+  "phase_weight": 0.0,
+  "epsilon": 1e-8,
+  "channel_aggregation": "joint vector norm and mean",
+  "resolution_aggregation": "arithmetic mean"
+}

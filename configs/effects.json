@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "normalization": {
+    "authoritative_space": "benchmark_prior",
+    "linear": "u=(x-min)/(max-min)",
+    "log": "u=(log(x)-log(min))/(log(max)-log(min))",
+    "note": "Recompute normalized values from physical controls. Legacy normalized fields in frozen target manifests used plugin API bounds and are retained only for provenance."
+  },
+  "effect_order": [
+    "highpass_filter",
+    "lowpass_filter",
+    "peak_filter",
+    "compressor",
+    "distortion",
+    "chorus",
+    "delay",
+    "reverb"
+  ],
+  "effects": {
+    "highpass_filter": {
+      "label": "High-pass filter",
+      "pedalboard_class": "HighpassFilter",
+      "parameters": {
+        "cutoff_frequency_hz": {"api_min": 20.0, "api_max": 18000.0, "prior_min": 30.0, "prior_max": 1200.0, "distribution": "log", "fixed": null}
+      }
+    },
+    "lowpass_filter": {
+      "label": "Low-pass filter",
+      "pedalboard_class": "LowpassFilter",
+      "parameters": {
+        "cutoff_frequency_hz": {"api_min": 20.0, "api_max": 18000.0, "prior_min": 2000.0, "prior_max": 18000.0, "distribution": "log", "fixed": null}
+      }
+    },
+    "peak_filter": {
+      "label": "Peak filter",
+      "pedalboard_class": "PeakFilter",
+      "parameters": {
+        "cutoff_frequency_hz": {"api_min": 20.0, "api_max": 18000.0, "prior_min": 80.0, "prior_max": 12000.0, "distribution": "log", "fixed": null},
+        "gain_db": {"api_min": -24.0, "api_max": 24.0, "prior_min": -12.0, "prior_max": 12.0, "distribution": "linear", "fixed": null},
+        "q": {"api_min": 0.1, "api_max": 10.0, "prior_min": 0.3, "prior_max": 6.0, "distribution": "log", "fixed": null}
+      }
+    },
+    "compressor": {
+      "label": "Compressor",
+      "pedalboard_class": "Compressor",
+      "parameters": {
+        "threshold_db": {"api_min": -60.0, "api_max": 0.0, "prior_min": -40.0, "prior_max": -6.0, "distribution": "linear", "fixed": null},
+        "ratio": {"api_min": 1.0, "api_max": 20.0, "prior_min": 1.5, "prior_max": 12.0, "distribution": "log", "fixed": null},
+        "attack_ms": {"api_min": 0.01, "api_max": 200.0, "prior_min": 0.1, "prior_max": 100.0, "distribution": "log", "fixed": null},
+        "release_ms": {"api_min": 1.0, "api_max": 1000.0, "prior_min": 20.0, "prior_max": 500.0, "distribution": "log", "fixed": null}
+      }
+    },
+    "distortion": {
+      "label": "Distortion",
+      "pedalboard_class": "Distortion",
+      "parameters": {
+        "drive_db": {"api_min": 0.0, "api_max": 60.0, "prior_min": 0.0, "prior_max": 30.0, "distribution": "linear", "fixed": null}
+      }
+    },
+    "chorus": {
+      "label": "Chorus",
+      "pedalboard_class": "Chorus",
+      "parameters": {
+        "rate_hz": {"api_min": 0.0, "api_max": 100.0, "prior_min": 0.1, "prior_max": 8.0, "distribution": "log", "fixed": null},
+        "depth": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.05, "prior_max": 0.8, "distribution": "linear", "fixed": null},
+        "centre_delay_ms": {"api_min": 1.0, "api_max": 100.0, "prior_min": 3.0, "prior_max": 30.0, "distribution": "log", "fixed": null},
+        "feedback": {"api_min": -1.0, "api_max": 1.0, "prior_min": -0.7, "prior_max": 0.7, "distribution": "linear", "fixed": null},
+        "mix": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.1, "prior_max": 0.8, "distribution": "linear", "fixed": null}
+      }
+    },
+    "delay": {
+      "label": "Delay",
+      "pedalboard_class": "Delay",
+      "parameters": {
+        "delay_seconds": {"api_min": 0.0, "api_max": 30.0, "prior_min": 0.03, "prior_max": 1.5, "distribution": "log", "fixed": null},
+        "feedback": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.0, "prior_max": 0.7, "distribution": "linear", "fixed": null},
+        "mix": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.1, "prior_max": 0.7, "distribution": "linear", "fixed": null}
+      }
+    },
+    "reverb": {
+      "label": "Reverb",
+      "pedalboard_class": "Reverb",
+      "parameters": {
+        "room_size": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.2, "prior_max": 0.9, "distribution": "linear", "fixed": null},
+        "damping": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.1, "prior_max": 0.9, "distribution": "linear", "fixed": null},
+        "wet_level": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.1, "prior_max": 0.6, "distribution": "linear", "fixed": null},
+        "dry_level": {"api_min": 0.0, "api_max": 1.0, "prior_min": null, "prior_max": null, "distribution": "fixed", "fixed": 0.5},
+        "width": {"api_min": 0.0, "api_max": 1.0, "prior_min": 0.0, "prior_max": 1.0, "distribution": "linear", "fixed": null},
+        "freeze_mode": {"api_min": 0.0, "api_max": 1.0, "prior_min": null, "prior_max": null, "distribution": "fixed", "fixed": 0.0}
+      }
+    }
+  }
+}

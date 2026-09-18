@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/csteinmetz1/st-ito",
+  "source_commit": "ec50e0cc647cc3637d0cbbfc01d059c682c9fb27",
+  "source_license": "Apache-2.0",
+  "python_dependency": {
+    "package": "cma",
+    "version": "4.4.4",
+    "license": "BSD-3-Clause"
+  },
+  "paper_defaults": {
+    "sigma0": 0.33,
+    "population_size": 128,
+    "iterations": 32,
+    "objective": "negative verifier cosine"
+  },
+  "counterfx_notes": [
+    "Each rendered proposal counts as one renderer call.",
+    "Known topology optimizes active continuous controls from a 0.5 center.",
+    "Hidden topology is a local extension using continuous activation and order keys.",
+    "Invalid or clipping renders receive an objective penalty and still count toward the budget."
+  ]
+}

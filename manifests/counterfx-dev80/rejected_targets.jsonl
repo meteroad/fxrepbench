@@ -1,0 +1,189 @@
+{"attempt": 0, "item_id": "fma_val_125159", "reason": "low_source_target_ld ld_a=0.001150067 ld_b=0.003353452 threshold=0.800000000", "seed": 4010014274}
+{"attempt": 1, "item_id": "fma_val_125159", "reason": "low_source_target_ld ld_a=0.402981788 ld_b=0.404910713 threshold=0.800000000", "seed": 4117896571}
+{"attempt": 0, "item_id": "fma_val_030895", "reason": "clipping peak_a=1.801107645 peak_b=1.801083922", "seed": 3891092100}
+{"attempt": 1, "item_id": "fma_val_030895", "reason": "clipping peak_a=1.863545775 peak_b=1.921996117", "seed": 2750470934}
+{"attempt": 0, "item_id": "fma_val_126559", "reason": "low_source_target_ld ld_a=0.470831543 ld_b=0.467784911 threshold=0.800000000", "seed": 4025504320}
+{"attempt": 1, "item_id": "fma_val_126559", "reason": "low_source_target_ld ld_a=0.569143236 ld_b=0.568050206 threshold=0.800000000", "seed": 19296895}
+{"attempt": 0, "item_id": "fma_val_038905", "reason": "low_source_target_ld ld_a=0.832655609 ld_b=0.757946789 threshold=0.800000000", "seed": 2949810252}
+{"attempt": 0, "item_id": "fma_val_003264", "reason": "low_source_target_ld ld_a=0.646560431 ld_b=0.689892471 threshold=0.800000000", "seed": 1186397155}
+{"attempt": 1, "item_id": "fma_val_003264", "reason": "low_source_target_ld ld_a=0.772719383 ld_b=0.805324018 threshold=0.800000000", "seed": 2212817140}
+{"attempt": 2, "item_id": "fma_val_003264", "reason": "low_source_target_ld ld_a=0.437725395 ld_b=0.419561982 threshold=0.800000000", "seed": 2815654487}
+{"attempt": 0, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.180766866 ld_b=0.179340735 threshold=0.800000000", "seed": 4213454625}
+{"attempt": 1, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.043808494 ld_b=0.040417314 threshold=0.800000000", "seed": 1749064505}
+{"attempt": 2, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.230964318 ld_b=0.230204642 threshold=0.800000000", "seed": 106191688}
+{"attempt": 3, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.000152396 ld_b=0.000150659 threshold=0.800000000", "seed": 1248097839}
+{"attempt": 4, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.361330062 ld_b=0.331070453 threshold=0.800000000", "seed": 1599357978}
+{"attempt": 5, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.151754618 ld_b=0.139552698 threshold=0.800000000", "seed": 2327841026}
+{"attempt": 6, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.251822919 ld_b=0.247155786 threshold=0.800000000", "seed": 1823336317}
+{"attempt": 7, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.022037515 ld_b=0.019469360 threshold=0.800000000", "seed": 2232738488}
+{"attempt": 8, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.427691311 ld_b=0.414195657 threshold=0.800000000", "seed": 1961759501}
+{"attempt": 9, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.398524195 ld_b=0.370610565 threshold=0.800000000", "seed": 1331341006}
+{"attempt": 10, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.029833175 ld_b=0.028277760 threshold=0.800000000", "seed": 301305471}
+{"attempt": 11, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.110830784 ld_b=0.095806576 threshold=0.800000000", "seed": 2042018046}
+{"attempt": 12, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.070376292 ld_b=0.065484799 threshold=0.800000000", "seed": 432160967}
+{"attempt": 13, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.101516478 ld_b=0.091060869 threshold=0.800000000", "seed": 189352154}
+{"attempt": 14, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.387949377 ld_b=0.384688348 threshold=0.800000000", "seed": 3870215791}
+{"attempt": 15, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.114763767 ld_b=0.111225992 threshold=0.800000000", "seed": 2768227575}
+{"attempt": 16, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.324970245 ld_b=0.342843294 threshold=0.800000000", "seed": 3458361489}
+{"attempt": 17, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.496764809 ld_b=0.468981028 threshold=0.800000000", "seed": 1627001616}
+{"attempt": 18, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.068082981 ld_b=0.060100645 threshold=0.800000000", "seed": 3843122942}
+{"attempt": 19, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.015187054 ld_b=0.013919483 threshold=0.800000000", "seed": 3526140445}
+{"attempt": 20, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.129633084 ld_b=0.120004624 threshold=0.800000000", "seed": 2634947012}
+{"attempt": 21, "item_id": "fma_val_122354", "reason": "low_source_target_ld ld_a=0.235858187 ld_b=0.232065678 threshold=0.800000000", "seed": 2547186355}
+{"attempt": 0, "item_id": "fma_val_148235", "reason": "low_source_target_ld ld_a=0.784025013 ld_b=0.787831783 threshold=0.800000000", "seed": 1603893281}
+{"attempt": 0, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.065724939 ld_b=0.057622481 threshold=0.800000000", "seed": 60985878}
+{"attempt": 1, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.065726988 ld_b=0.063668661 threshold=0.800000000", "seed": 2120264850}
+{"attempt": 2, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.056302100 ld_b=0.048223201 threshold=0.800000000", "seed": 4044293125}
+{"attempt": 3, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.031341102 ld_b=0.030988373 threshold=0.800000000", "seed": 859616631}
+{"attempt": 4, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.113865554 ld_b=0.109181322 threshold=0.800000000", "seed": 3295714290}
+{"attempt": 5, "item_id": "fma_val_000602", "reason": "low_source_target_ld ld_a=0.351566643 ld_b=0.351111531 threshold=0.800000000", "seed": 1338239267}
+{"attempt": 0, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.000447681 ld_b=0.000470270 threshold=0.800000000", "seed": 1654659219}
+{"attempt": 1, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.717178762 ld_b=0.706565857 threshold=0.800000000", "seed": 111855565}
+{"attempt": 2, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.357907861 ld_b=0.336241275 threshold=0.800000000", "seed": 3695985477}
+{"attempt": 3, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.259893894 ld_b=0.275318891 threshold=0.800000000", "seed": 3440378180}
+{"attempt": 4, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.088197112 ld_b=0.097197838 threshold=0.800000000", "seed": 2908800366}
+{"attempt": 5, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.134310618 ld_b=0.143668860 threshold=0.800000000", "seed": 749809702}
+{"attempt": 6, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.122152843 ld_b=0.113411963 threshold=0.800000000", "seed": 415673036}
+{"attempt": 7, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.521171987 ld_b=0.539593697 threshold=0.800000000", "seed": 3831445295}
+{"attempt": 8, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.401236147 ld_b=0.374367625 threshold=0.800000000", "seed": 2977683402}
+{"attempt": 9, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.592888772 ld_b=0.584298313 threshold=0.800000000", "seed": 456395666}
+{"attempt": 10, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.334966898 ld_b=0.357864410 threshold=0.800000000", "seed": 1725967417}
+{"attempt": 11, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.050983813 ld_b=0.045424148 threshold=0.800000000", "seed": 3375654971}
+{"attempt": 12, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.240457550 ld_b=0.229889169 threshold=0.800000000", "seed": 3812028040}
+{"attempt": 13, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.093105070 ld_b=0.099680670 threshold=0.800000000", "seed": 1592435859}
+{"attempt": 14, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.024754107 ld_b=0.027192973 threshold=0.800000000", "seed": 364440315}
+{"attempt": 15, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.027028212 ld_b=0.025291065 threshold=0.800000000", "seed": 1279064336}
+{"attempt": 16, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.015944557 ld_b=0.017512305 threshold=0.800000000", "seed": 3756860274}
+{"attempt": 17, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.112668872 ld_b=0.123081751 threshold=0.800000000", "seed": 2433884734}
+{"attempt": 18, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.233979300 ld_b=0.245593086 threshold=0.800000000", "seed": 1512045199}
+{"attempt": 19, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.117308535 ld_b=0.130511060 threshold=0.800000000", "seed": 2511513346}
+{"attempt": 20, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.139671683 ld_b=0.127921045 threshold=0.800000000", "seed": 4016312948}
+{"attempt": 21, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.214233637 ld_b=0.242837906 threshold=0.800000000", "seed": 3016193592}
+{"attempt": 22, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.374419600 ld_b=0.391063929 threshold=0.800000000", "seed": 2268985617}
+{"attempt": 23, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.640496910 ld_b=0.690056622 threshold=0.800000000", "seed": 300341094}
+{"attempt": 24, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.557646573 ld_b=0.573480964 threshold=0.800000000", "seed": 1940037591}
+{"attempt": 25, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.001258274 ld_b=0.001230409 threshold=0.800000000", "seed": 3800566213}
+{"attempt": 26, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.116215877 ld_b=0.119002901 threshold=0.800000000", "seed": 3864683842}
+{"attempt": 27, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.347064763 ld_b=0.365880877 threshold=0.800000000", "seed": 1838237872}
+{"attempt": 28, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.044780809 ld_b=0.041159324 threshold=0.800000000", "seed": 2696078086}
+{"attempt": 29, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.117908902 ld_b=0.108371533 threshold=0.800000000", "seed": 2834291995}
+{"attempt": 30, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.452417344 ld_b=0.453224868 threshold=0.800000000", "seed": 3727429745}
+{"attempt": 31, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.068982989 ld_b=0.081744283 threshold=0.800000000", "seed": 196521264}
+{"attempt": 32, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.342010885 ld_b=0.349711806 threshold=0.800000000", "seed": 1872679633}
+{"attempt": 33, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.477637857 ld_b=0.504782438 threshold=0.800000000", "seed": 221032484}
+{"attempt": 34, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.086642921 ld_b=0.089404263 threshold=0.800000000", "seed": 3854733338}
+{"attempt": 35, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.145575091 ld_b=0.141739309 threshold=0.800000000", "seed": 3945893990}
+{"attempt": 36, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.279279321 ld_b=0.270236939 threshold=0.800000000", "seed": 3233492095}
+{"attempt": 37, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.102971531 ld_b=0.108757474 threshold=0.800000000", "seed": 596123548}
+{"attempt": 38, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.255201101 ld_b=0.252205461 threshold=0.800000000", "seed": 2630136412}
+{"attempt": 39, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.159721121 ld_b=0.166065723 threshold=0.800000000", "seed": 2986793314}
+{"attempt": 40, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.234826505 ld_b=0.262980253 threshold=0.800000000", "seed": 1772110732}
+{"attempt": 41, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.182637691 ld_b=0.178311303 threshold=0.800000000", "seed": 468481271}
+{"attempt": 42, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.298099250 ld_b=0.313955456 threshold=0.800000000", "seed": 4075994182}
+{"attempt": 43, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.296798140 ld_b=0.282880217 threshold=0.800000000", "seed": 93836147}
+{"attempt": 44, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.101272248 ld_b=0.117490537 threshold=0.800000000", "seed": 3666799411}
+{"attempt": 45, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.068339564 ld_b=0.066626243 threshold=0.800000000", "seed": 4190890592}
+{"attempt": 46, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.129632130 ld_b=0.136506274 threshold=0.800000000", "seed": 1634444485}
+{"attempt": 47, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.021958301 ld_b=0.024594309 threshold=0.800000000", "seed": 666852819}
+{"attempt": 48, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.543478668 ld_b=0.571768820 threshold=0.800000000", "seed": 1869553595}
+{"attempt": 49, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.478782982 ld_b=0.494404465 threshold=0.800000000", "seed": 1811591279}
+{"attempt": 50, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.175669149 ld_b=0.182066068 threshold=0.800000000", "seed": 2478541425}
+{"attempt": 51, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.001771685 ld_b=0.001620669 threshold=0.800000000", "seed": 4116564614}
+{"attempt": 52, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.003458636 ld_b=0.003693054 threshold=0.800000000", "seed": 1505104752}
+{"attempt": 53, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.377863795 ld_b=0.390547961 threshold=0.800000000", "seed": 3505300629}
+{"attempt": 54, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.239747301 ld_b=0.240125537 threshold=0.800000000", "seed": 4072459677}
+{"attempt": 55, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.165282801 ld_b=0.158551589 threshold=0.800000000", "seed": 1892208734}
+{"attempt": 56, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.146899313 ld_b=0.151936263 threshold=0.800000000", "seed": 3872002680}
+{"attempt": 57, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.156241015 ld_b=0.165168867 threshold=0.800000000", "seed": 1365518401}
+{"attempt": 58, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.200861022 ld_b=0.212731779 threshold=0.800000000", "seed": 252584426}
+{"attempt": 59, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.105626099 ld_b=0.113319337 threshold=0.800000000", "seed": 3918253920}
+{"attempt": 60, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.336785585 ld_b=0.316215485 threshold=0.800000000", "seed": 2966951439}
+{"attempt": 61, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.173977628 ld_b=0.146088734 threshold=0.800000000", "seed": 918615956}
+{"attempt": 62, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.490230471 ld_b=0.519705355 threshold=0.800000000", "seed": 2531583652}
+{"attempt": 63, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.052267149 ld_b=0.051267665 threshold=0.800000000", "seed": 3053194946}
+{"attempt": 64, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.126877069 ld_b=0.136770263 threshold=0.800000000", "seed": 1892165690}
+{"attempt": 65, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.499053091 ld_b=0.516150057 threshold=0.800000000", "seed": 3611021440}
+{"attempt": 66, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.396915168 ld_b=0.416041762 threshold=0.800000000", "seed": 585561561}
+{"attempt": 67, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.100234687 ld_b=0.103433073 threshold=0.800000000", "seed": 952568245}
+{"attempt": 68, "item_id": "fma_val_075419", "reason": "low_source_target_ld ld_a=0.786282718 ld_b=0.829725683 threshold=0.800000000", "seed": 2022857783}
+{"attempt": 0, "item_id": "fma_val_098557", "reason": "low_source_target_ld ld_a=0.456397057 ld_b=0.461981922 threshold=0.800000000", "seed": 2632555656}
+{"attempt": 0, "item_id": "fma_val_098552", "reason": "low_source_target_ld ld_a=0.682715237 ld_b=0.656924009 threshold=0.800000000", "seed": 2204123492}
+{"attempt": 1, "item_id": "fma_val_098552", "reason": "low_source_target_ld ld_a=0.753962696 ld_b=0.731390655 threshold=0.800000000", "seed": 73891604}
+{"attempt": 0, "item_id": "fma_val_075393", "reason": "low_source_target_ld ld_a=0.363908380 ld_b=0.332109094 threshold=0.800000000", "seed": 3473981448}
+{"attempt": 0, "item_id": "fma_val_133450", "reason": "low_source_target_ld ld_a=0.905184269 ld_b=0.737652004 threshold=0.800000000", "seed": 408688772}
+{"attempt": 0, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.500657797 ld_b=0.502542675 threshold=0.800000000", "seed": 3717242629}
+{"attempt": 1, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.360026121 ld_b=0.367313772 threshold=0.800000000", "seed": 59548735}
+{"attempt": 2, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.014093879 ld_b=0.013087514 threshold=0.800000000", "seed": 3354724847}
+{"attempt": 3, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.775555789 ld_b=0.773964703 threshold=0.800000000", "seed": 1309745784}
+{"attempt": 4, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.462502956 ld_b=0.462406397 threshold=0.800000000", "seed": 2862767279}
+{"attempt": 5, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.319137931 ld_b=0.330183417 threshold=0.800000000", "seed": 4089321655}
+{"attempt": 6, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.205276296 ld_b=0.204931393 threshold=0.800000000", "seed": 101697020}
+{"attempt": 7, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.482704163 ld_b=0.468084574 threshold=0.800000000", "seed": 1485455239}
+{"attempt": 8, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.200346813 ld_b=0.199173689 threshold=0.800000000", "seed": 3879535110}
+{"attempt": 9, "item_id": "fma_val_133442", "reason": "low_source_target_ld ld_a=0.178594887 ld_b=0.178453982 threshold=0.800000000", "seed": 581510860}
+{"attempt": 0, "item_id": "fma_val_135225", "reason": "clipping peak_a=0.994155645 peak_b=1.034561515", "seed": 2124820139}
+{"attempt": 1, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.443149328 peak_b=1.433764696", "seed": 2644322485}
+{"attempt": 2, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.785982966 peak_b=1.932357550", "seed": 2570250107}
+{"attempt": 3, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.404906631 peak_b=1.450202346", "seed": 226108252}
+{"attempt": 4, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.346809864 peak_b=1.402189612", "seed": 4273460395}
+{"attempt": 5, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.305733442 peak_b=1.372652888", "seed": 3064683186}
+{"attempt": 6, "item_id": "fma_val_135225", "reason": "clipping peak_a=1.959466577 peak_b=2.097986221", "seed": 3469246509}
+{"attempt": 0, "item_id": "fma_val_135228", "reason": "low_source_target_ld ld_a=0.528843284 ld_b=0.554214060 threshold=0.800000000", "seed": 1587539892}
+{"attempt": 0, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.687583029 ld_b=0.772895515 threshold=0.800000000", "seed": 3482373762}
+{"attempt": 1, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.055959821 ld_b=0.065334886 threshold=0.800000000", "seed": 2834914856}
+{"attempt": 2, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.692580879 ld_b=0.679474533 threshold=0.800000000", "seed": 3177045028}
+{"attempt": 3, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.622470677 ld_b=0.698510170 threshold=0.800000000", "seed": 3262396403}
+{"attempt": 4, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.052303400 ld_b=0.058086276 threshold=0.800000000", "seed": 1510912757}
+{"attempt": 5, "item_id": "fma_val_135221", "reason": "low_source_target_ld ld_a=0.377861708 ld_b=0.371050268 threshold=0.800000000", "seed": 2107911683}
+{"attempt": 0, "item_id": "fma_val_025670", "reason": "clipping peak_a=2.121653080 peak_b=2.143730879", "seed": 3197275062}
+{"attempt": 1, "item_id": "fma_val_025670", "reason": "clipping peak_a=3.421455860 peak_b=3.973225117", "seed": 209006958}
+{"attempt": 2, "item_id": "fma_val_025670", "reason": "clipping peak_a=2.564411640 peak_b=2.530294418", "seed": 2547209104}
+{"attempt": 3, "item_id": "fma_val_025670", "reason": "clipping peak_a=2.931654453 peak_b=2.993558407", "seed": 2286121899}
+{"attempt": 4, "item_id": "fma_val_025670", "reason": "clipping peak_a=1.503105283 peak_b=1.653890729", "seed": 545119835}
+{"attempt": 5, "item_id": "fma_val_025670", "reason": "clipping peak_a=1.893000841 peak_b=2.163932800", "seed": 688045353}
+{"attempt": 6, "item_id": "fma_val_025670", "reason": "clipping peak_a=2.539475441 peak_b=1.644997358", "seed": 2955137590}
+{"attempt": 7, "item_id": "fma_val_025670", "reason": "clipping peak_a=3.175172806 peak_b=2.479300976", "seed": 1948430161}
+{"attempt": 8, "item_id": "fma_val_025670", "reason": "clipping peak_a=4.724893093 peak_b=3.712467670", "seed": 1646363767}
+{"attempt": 9, "item_id": "fma_val_025670", "reason": "clipping peak_a=1.656078935 peak_b=1.693648577", "seed": 2921498377}
+{"attempt": 10, "item_id": "fma_val_025670", "reason": "clipping peak_a=2.548592567 peak_b=2.361255646", "seed": 1510739863}
+{"attempt": 11, "item_id": "fma_val_025670", "reason": "clipping peak_a=1.197041988 peak_b=1.383260965", "seed": 3670996265}
+{"attempt": 12, "item_id": "fma_val_025670", "reason": "clipping peak_a=7.351690769 peak_b=8.357800484", "seed": 590735558}
+{"attempt": 0, "item_id": "fma_val_109976", "reason": "low_source_target_ld ld_a=0.640289128 ld_b=0.685496151 threshold=0.800000000", "seed": 925898302}
+{"attempt": 0, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.122107655 ld_b=0.119447403 threshold=0.800000000", "seed": 2931519821}
+{"attempt": 1, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.384954780 ld_b=0.328889251 threshold=0.800000000", "seed": 4114953885}
+{"attempt": 2, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.111737095 ld_b=0.115367450 threshold=0.800000000", "seed": 1969581028}
+{"attempt": 3, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.650334001 ld_b=0.643796146 threshold=0.800000000", "seed": 2470529952}
+{"attempt": 4, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.219430044 ld_b=0.215869546 threshold=0.800000000", "seed": 1285411993}
+{"attempt": 5, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.380815655 ld_b=0.369289368 threshold=0.800000000", "seed": 3174463026}
+{"attempt": 6, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.124374427 ld_b=0.120170571 threshold=0.800000000", "seed": 1864957640}
+{"attempt": 7, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.513546526 ld_b=0.507221162 threshold=0.800000000", "seed": 3962137403}
+{"attempt": 8, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.530833781 ld_b=0.552811205 threshold=0.800000000", "seed": 3932625143}
+{"attempt": 9, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.415625930 ld_b=0.334285647 threshold=0.800000000", "seed": 3586501625}
+{"attempt": 10, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.079704411 ld_b=0.079985842 threshold=0.800000000", "seed": 609717682}
+{"attempt": 11, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.146681860 ld_b=0.143725231 threshold=0.800000000", "seed": 3467626132}
+{"attempt": 12, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.330117732 ld_b=0.321276277 threshold=0.800000000", "seed": 2890388548}
+{"attempt": 13, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.030816212 ld_b=0.036051210 threshold=0.800000000", "seed": 1283324120}
+{"attempt": 14, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.327004105 ld_b=0.323203951 threshold=0.800000000", "seed": 3290280652}
+{"attempt": 15, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.156760901 ld_b=0.146979868 threshold=0.800000000", "seed": 1532513169}
+{"attempt": 16, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.074238241 ld_b=0.085513055 threshold=0.800000000", "seed": 1165583578}
+{"attempt": 17, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.009021618 ld_b=0.008580801 threshold=0.800000000", "seed": 1261521614}
+{"attempt": 18, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.074491620 ld_b=0.072594486 threshold=0.800000000", "seed": 1498971924}
+{"attempt": 19, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.132991657 ld_b=0.153838024 threshold=0.800000000", "seed": 4065410362}
+{"attempt": 20, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.132871702 ld_b=0.133536279 threshold=0.800000000", "seed": 542714313}
+{"attempt": 21, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.806493580 ld_b=0.791259706 threshold=0.800000000", "seed": 3004058306}
+{"attempt": 22, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.249573946 ld_b=0.288917899 threshold=0.800000000", "seed": 2401230659}
+{"attempt": 23, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.098873474 ld_b=0.095130801 threshold=0.800000000", "seed": 1088611046}
+{"attempt": 24, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.240647718 ld_b=0.227710798 threshold=0.800000000", "seed": 219918239}
+{"attempt": 25, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.423272818 ld_b=0.405349582 threshold=0.800000000", "seed": 1066857533}
+{"attempt": 26, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.788798749 ld_b=0.791807950 threshold=0.800000000", "seed": 1332925350}
+{"attempt": 27, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.262558192 ld_b=0.271678776 threshold=0.800000000", "seed": 814002558}
+{"attempt": 28, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.163492367 ld_b=0.163512126 threshold=0.800000000", "seed": 3961442361}
+{"attempt": 29, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.099947989 ld_b=0.100543119 threshold=0.800000000", "seed": 2809480780}
+{"attempt": 30, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.376711726 ld_b=0.371924549 threshold=0.800000000", "seed": 3387587757}
+{"attempt": 31, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.342438906 ld_b=0.344253868 threshold=0.800000000", "seed": 3845473865}
+{"attempt": 32, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.038166676 ld_b=0.045801744 threshold=0.800000000", "seed": 3181303883}
+{"attempt": 33, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.570278049 ld_b=0.556039989 threshold=0.800000000", "seed": 3793620511}
+{"attempt": 34, "item_id": "fma_val_057891", "reason": "low_source_target_ld ld_a=0.136802971 ld_b=0.139414668 threshold=0.800000000", "seed": 511391978}
+{"attempt": 0, "item_id": "fma_val_040984", "reason": "low_source_target_ld ld_a=0.015718738 ld_b=0.017259279 threshold=0.800000000", "seed": 3729357455}
+{"attempt": 1, "item_id": "fma_val_040984", "reason": "low_source_target_ld ld_a=0.134938151 ld_b=0.138339922 threshold=0.800000000", "seed": 582045132}
+{"attempt": 0, "item_id": "fma_val_129098", "reason": "low_source_target_ld ld_a=0.302063942 ld_b=0.293178320 threshold=0.800000000", "seed": 1842397690}

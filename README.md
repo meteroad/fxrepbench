@@ -35,19 +35,17 @@ The current release supports two evaluation views:
 - **Fixed-pool ranking:** give representations the same rendered candidates and
   separate candidate coverage from ranking error.
 
-See [the benchmark card](docs/BENCHMARK_CARD.md) for scope and limitations and
-[the protocol](docs/PROTOCOL.md) for the frozen construction.
+See [the CounterFX benchmark directory](benchmarks/counterfx/README.md) for its
+scope, frozen protocol, manifests, and reference results.
 
 ## Repository layout
 
 ```text
-src/fxrepbench/             Reconstruction, metrics, and evaluation CLI
-manifests/counterfx-dev80/  Public development split
-manifests/counterfx-200/    Paper evaluation split
-locks/                      Public renderer lock
-docs/                       Benchmark card, protocol, and release checklist
+benchmarks/
+└── counterfx/              CounterFX configs, manifests, docs, and results
+src/fxrepbench/             Shared reconstruction and evaluation utilities
+docs/                       Suite-level release documentation
 tests/                      Release-integrity tests
-reference_results/          Frozen paper curves without audio or checkpoints
 ```
 
 Raw FMA audio is not included. The manifests provide FMA track IDs, source
@@ -121,7 +119,8 @@ fxrepbench evaluate \
 
 It reports selected and oracle `L_d`, their gap, and optional FX-set F1 using
 the exact metric definition used in the paper. See
-[`docs/SUBMISSION_FORMAT.md`](docs/SUBMISSION_FORMAT.md) for the schema.
+[`benchmarks/counterfx/docs/SUBMISSION_FORMAT.md`](benchmarks/counterfx/docs/SUBMISSION_FORMAT.md)
+for the schema.
 
 Generate the deterministic shared Global Random pool used to compare
 representation-based rankers:

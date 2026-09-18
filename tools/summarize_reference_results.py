@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = ROOT / "reference_results/counterfx-200/candidate_budget"
+BASE = ROOT / "benchmarks/counterfx/reference_results/counterfx-200/candidate_budget"
 RUN_ROOT = BASE / "pedalboard_test200_seed20270724"
 
 

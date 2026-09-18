@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "suite": "FXRepBench",
+  "suite_version": "0.1.0",
+  "tracks": {
+    "counterfx-200": {
+      "audio_manifest": "benchmarks/counterfx/manifests/counterfx-200/audio.csv",
+      "expected_items": 200,
+      "legacy_benchmark_version": "pedalboard-fma-test-v0.1",
+      "role": "test",
+      "summary": "benchmarks/counterfx/manifests/counterfx-200/summary.json",
+      "target_manifest": "benchmarks/counterfx/manifests/counterfx-200/targets.jsonl"
+    },
+    "counterfx-dev80": {
+      "audio_manifest": "benchmarks/counterfx/manifests/counterfx-dev80/audio.csv",
+      "expected_items": 80,
+      "legacy_benchmark_version": "pedalboard-fma-dev-v0.3",
+      "role": "development",
+      "summary": "benchmarks/counterfx/manifests/counterfx-dev80/summary.json",
+      "target_manifest": "benchmarks/counterfx/manifests/counterfx-dev80/targets.jsonl"
+    }
+  }
+}

@@ -22,11 +22,8 @@ documentation are licensed under the Creative Commons Attribution 4.0
 International License. The full terms are in
 [`LICENSE-DATA`](LICENSE-DATA). This applies to:
 
-- `manifests/`;
-- `configs/`;
-- `reference_results/`;
+- `benchmarks/`;
 - `docs/`;
-- `locks/`; and
 - repository documentation and citation metadata.
 
 SPDX identifier: `CC-BY-4.0`.

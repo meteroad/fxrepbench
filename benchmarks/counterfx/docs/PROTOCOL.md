@@ -46,7 +46,8 @@ The effect and parameter manifests freeze effect identities, chain order,
 normalized controls, physical controls, seeds, renderer version, and all
 rejected target draws. Physical controls in `targets.jsonl` are authoritative
 for reconstruction. The legacy normalized fields are retained for provenance;
-new systems must derive prior-aware normalized controls from `configs/effects.json`.
+new systems must derive prior-aware normalized controls from
+[`../configs/effects.json`](../configs/effects.json).
 
 The reference renderer is Spotify Pedalboard 0.9.23 at 44.1 kHz with an
 8192-sample buffer, processor reset enabled, and no peak limiting or RMS
@@ -61,7 +62,8 @@ and controls are all hidden.
 The shared Global Random pool uses candidate seed `20270724`. For each item and
 topology, an item seed is derived with SHA256. Hidden-topology chains follow the
 independent activation probabilities and four equiprobable order templates in
-`configs/chain_prior.json`; known-topology candidates use the supplied chain.
+[`../configs/chain_prior.json`](../configs/chain_prior.json); known-topology
+candidates use the supplied chain.
 Non-finite or peak-clipping candidates are rejected and replaced until the
 requested number of valid candidates is reached. Candidate budgets are prefixes
 of the same deterministic pool.
@@ -76,7 +78,7 @@ or clipped renders are rejected. Rejections are retained in the release.
 
 `L_d` is the arithmetic mean of spectral-convergence and log-magnitude losses
 at three STFT resolutions. Its frozen FFT, hop, window, epsilon, and aggregation
-settings are recorded in `configs/metric.json` and implemented in
+settings are recorded in [`../configs/metric.json`](../configs/metric.json) and implemented in
 `fxrepbench.metrics.MultiResolutionStftDistance`.
 
 For a ranked candidate pool, selected `L_d` evaluates the highest-scoring

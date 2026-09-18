@@ -10,7 +10,11 @@ from .manifests import repository_root
 
 def load_config(name: str, root: Path | None = None) -> dict[str, Any]:
     base = root or repository_root()
-    return json.loads((base / "configs" / name).read_text(encoding="utf-8"))
+    return json.loads(
+        (base / "benchmarks" / "counterfx" / "configs" / name).read_text(
+            encoding="utf-8"
+        )
+    )
 
 
 def effects_config(root: Path | None = None) -> dict[str, Any]:
@@ -57,4 +61,3 @@ def sample_parameter(spec: dict[str, Any], rng: Any) -> tuple[float, float]:
         return float(spec["fixed"]), 0.0
     unit = float(rng.random())
     return unit_to_parameter(spec, unit), unit
-

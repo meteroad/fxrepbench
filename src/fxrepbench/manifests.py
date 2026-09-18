@@ -47,7 +47,11 @@ def load_csv(path: Path) -> list[dict[str, str]]:
 
 def load_tracks(root: Path | None = None) -> dict[str, TrackFiles]:
     root = root or repository_root()
-    index = json.loads((root / "manifests/index.json").read_text(encoding="utf-8"))
+    index = json.loads(
+        (root / "benchmarks/counterfx/manifests/index.json").read_text(
+            encoding="utf-8"
+        )
+    )
     tracks: dict[str, TrackFiles] = {}
     for key, item in index["tracks"].items():
         tracks[key] = TrackFiles(
@@ -157,4 +161,3 @@ def get_item(track: TrackFiles, item_id: str) -> tuple[dict[str, str], dict[str,
     if item_id not in audio or item_id not in targets:
         raise KeyError(f"unknown item {item_id!r} in track {track.key!r}")
     return audio[item_id], targets[item_id]
-
